@@ -1,0 +1,3 @@
+[submodule "discord-clone"]
+	path = discord-clone
+	url = https://github.com/ashfaqrafin/Discord-Clone.git
