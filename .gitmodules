@@ -1,3 +1,6 @@
 [submodule "discord-clone"]
 	path = discord-clone
 	url = https://github.com/ashfaqrafin/Discord-Clone.git
+[submodule "learning"]
+	path = learning
+	url = https://github.com/ashfaqrafin/learning_git.git
